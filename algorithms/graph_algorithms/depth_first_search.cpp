@@ -2,7 +2,7 @@
 # Depth-First Search #
 
 Discovery Edges: The edges used to discover new vertices.
-Back Edges: The edges led to already visited vertices
+Back Edges: The edges led to already visited vertices.
 
 Algorithm DFS(G, v):
 label v as visited
@@ -27,8 +27,6 @@ for all edges e in v.incidentEdges() do
         else
             e.set("status", back)
 */
-
-// Reference: http://www.shanql.cn/index.php/coding/20190625/204/
 
 #include <iostream>
 
