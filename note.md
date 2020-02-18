@@ -63,6 +63,12 @@
 
 ## Data Structures and Algorithms
 
+### Priority Queues and Heaps
+
+- [C++堆用法详解](http://c.biancheng.net/view/481.html)
+- [STL greater() 和less()](https://blog.csdn.net/shinetzh/article/details/77935615)
+- [C++ 重载运算符和重载函数](https://www.runoob.com/cplusplus/cpp-overloading.html)
+
 ### Search Trees
 
 - [MySQL数据库中索引的数据结构是什么？（B树和B+树的区别）](https://www.cnblogs.com/linliquan/p/11364428.html)
